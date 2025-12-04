@@ -1,4 +1,4 @@
-# Brain
+# Brain CLI
 
 ![Brain Version](https://img.shields.io/badge/dynamic/json?url=https://cli.layerbrain.com/latest.json&query=$.version&label=Brain%20Version&color=635bff)
 
