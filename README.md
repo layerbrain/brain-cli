@@ -1,6 +1,6 @@
 # Brain
 
-![version](https://img.shields.io/badge/dynamic/regex?url=https://cli.layerbrain.com/version.txt&search=.*&label=version)
+![Brain Version](https://img.shields.io/badge/dynamic/json?url=https://cli.layerbrain.com/latest.json&query=$.version&label=Brain%20Version&color=635bff)
 
 Brain is a generally intelligent system that generates and operates software on your computer, backed by powerful machines on the internet.
 
